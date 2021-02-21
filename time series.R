@@ -1,6 +1,6 @@
 ##Time Series Case Study
 setwd("C:/Users/hp/Desktop/3")
-TSDATA1<-read.csv("UK Outward Passengers Movement.xls")
+TSDATA1<-read.csv("UK Outward Passengers Movement.csv")
 View(TSDATA1)
 
 ##creating time series data for all the five variables
